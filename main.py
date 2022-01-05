@@ -1,5 +1,6 @@
 import random 
 import pyautogui
+import string
 
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 chars_list = list(chars)
